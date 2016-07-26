@@ -7,8 +7,7 @@ Sample for using browserstack-runner to run Javascript tests (QUnit framework) o
 - `git clone https://github.com/browserstack/browserstack-runner-sample.git`
 
 ###Install browserstack-runner
-*Starting and pre-requite: [browserstack-runner]*
-- `npm -g install browserstack-runner`
+- `npm install`
 
 ###Configuring the json
  - Open `browserstack.json`

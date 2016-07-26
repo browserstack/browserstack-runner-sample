@@ -1,0 +1,16 @@
+{
+  "name": "browserstack-runner-sample",
+  "version": "0.1.0",
+  "readme": "Sample for using browserstack-runner to run Javascript tests (QUnit framework) on BrowserStack infrastructure.",
+  "description": "JS Testing examples for browserstack-runner and BrowserStack Automate",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/browserstack/browserstack-runner-sample.git"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/browserstack-runner"
+  },
+  "dependencies": {
+    "browserstack-runner": "*"
+  }
+}
